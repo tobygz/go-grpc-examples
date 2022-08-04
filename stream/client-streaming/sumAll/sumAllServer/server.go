@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	sumallpb "github.com/itsksaurabh/udemy/grpc/stream/client-streaming/sumAll/sumAllpb"
+	sumallpb "github.com/tobygz/stream/client-streaming/sumAll/sumAllpb"
 	"google.golang.org/grpc"
 )
 

@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/itsksaurabh/udemy/grpc/stream/bi-directional-streaming/feeds/feedpb"
+	"github.com/tobygz/stream/bi-directional-streaming/feeds/feedpb"
 
 	"google.golang.org/grpc"
 )
